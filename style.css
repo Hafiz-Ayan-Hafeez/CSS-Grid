@@ -12,7 +12,9 @@ body{
     grid-template-columns: repeat(4 , 1fr);
 }
 
-
+.children{
+    padding: 50px;
+}
 
 #box-1{
     grid-area: 1 / 1 / 4 / 2;
